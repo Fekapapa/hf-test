@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "ng test",
+    "postinstall": "ng build",
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
